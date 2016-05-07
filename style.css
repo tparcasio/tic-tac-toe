@@ -1,0 +1,23 @@
+.container {
+  width:450px;
+  margin-left:auto;
+  margin-right:auto;
+}
+
+.row {
+  overflow:hidden;
+}
+
+.game-space {
+  float:left;
+  width:33.33333%;
+  height:150px;
+  border:#000 1px solid;
+  text-align:center;
+  line-height:150px;
+  font-size:3em;
+}
+
+h1 {
+  text-align: center;
+}
